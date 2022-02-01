@@ -1,0 +1,19 @@
+2022-01-31 14:07:38.475 -03:00 [INF] Update de Remito
+2022-01-31 14:07:43.810 -03:00 [INF] Se actualizo el campo Replicado del remito: TCC-13577
+2022-01-31 14:09:12.915 -03:00 [INF] Update de Remito
+2022-01-31 14:09:15.363 -03:00 [INF] Se actualizo el campo Replicado del remito: TCC-13578
+2022-01-31 14:11:05.128 -03:00 [INF] Update de Remito
+2022-01-31 14:11:05.128 -03:00 [INF] Se actualizo el campo Replicado del remito: TCC-13592
+2022-01-31 14:11:51.706 -03:00 [INF] Update de Remito
+2022-01-31 14:11:51.707 -03:00 [INF] Se actualizo el campo Replicado del remito: TCC-13601
+2022-01-31 15:16:42.736 -03:00 [ERR] The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+2022-01-31 16:03:45.486 -03:00 [ERR] The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+2022-01-31 16:08:27.974 -03:00 [INF] Update de Remito
+2022-01-31 16:08:35.717 -03:00 [INF] Se actualizo el campo Replicado del remito: [{unRemito.Numserie}] TCC-13634
+2022-01-31 16:16:14.392 -03:00 [ERR] The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+2022-01-31 16:33:32.733 -03:00 [ERR] The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+2022-01-31 16:54:28.763 -03:00 [ERR] The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+2022-01-31 17:00:59.035 -03:00 [ERR] The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+2022-01-31 17:03:58.981 -03:00 [ERR] The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+2022-01-31 17:28:35.418 -03:00 [INF] Update de Remito
+2022-01-31 17:28:37.324 -03:00 [INF] Se actualizo el campo Replicado del remito: TCC-13636
